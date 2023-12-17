@@ -10,6 +10,6 @@
 5. Страница html https://github.com/fedostseva/Primery-rabot-/blob/main/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20html.md
 6. Postman запросы https://github.com/fedostseva/Primery-rabot-/blob/main/Postman%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.md
 7. SQL SELECT https://github.com/fedostseva/Primery-rabot-/blob/main/SQL%20Select.md
-8. 
+8. TMS TEST IT https://github.com/fedostseva/Primery-rabot-/blob/main/TEST%20IT.md 
 
 
